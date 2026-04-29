@@ -11,8 +11,8 @@ Recently, I have been exploring computer vision and agentic AI approaches to hel
 When not working, I am a passionate rock climber and woodworker.
 
 ## Areas of Expertise
-
-- **AI Model Acceleration and Benchmarking** — Porting models on external AI accelerators (Hailo-8, AzurEngine, Axelera, Hailo, MemryX, DeepX), and internal NPUs (AMD Vitis-AI, Qualcomm NPU)
+- **Benchmarking** - Methodology-first, vendor-neutral evaluation of edge AI accelerators (power, throughput, latency, energy-per-inference, accuracy) and pipeline-level performance on cascaded real-world workloads. Reproducible measurement, published methodology, head-to-head comparisons.
+- **Edge AI** — Porting models on external AI accelerators (Hailo-8, AzurEngine, Axelera, Hailo, MemryX, DeepX), and internal NPUs (AMD Vitis-AI, Qualcomm NPU)
 - **Embedded Vision** — In depth experience in building image-capture pipelines for AMD programmable logic platforms (Spartan-6, Zynq-7000 Soc, Zynq-UltraScale+, Versal AI Edge), including camera calibration and ISP tuning, for mono, dual(stereo), and multi-camera systems.
 - **Robotics** — Hand-controlled robotic arms and mobile robots using MediaPipe, pose estimation, and ASL recognition.  LLM-based agents integrated with ROS2 for autonomous robot control
 
